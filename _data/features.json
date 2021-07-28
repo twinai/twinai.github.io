@@ -1,0 +1,32 @@
+[
+  {
+    "title": "我們構建。我們許可。我們集成。",
+    "description": "為即時決策提供動力，以獲得更好的結果。",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "以人工智慧/機器學習的骨幹力量加速業務成果。",
+    "description": "人工智慧由聯邦學習、深度學習、電腦視覺、NLP/NLU 和邊緣運算提供動力，為數據的即時決策和結果提供動力。",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "完整的端到端人工智慧解決方案。",
+    "description": "將您的組織團結在人工智慧/機器學習的共用環境中。",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "構建道德和負責任的人工智慧解決方案。",
+    "description": "使用專為負責任工程設計的人工智慧解決方案最大限度地提高影響和最大化風險。",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "通過知情的人工智慧提前獲得醫療保健服務",
+    "description": "醫療圖像分類器。患者結果預測。改變醫療保健的交付方式。",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "加快醫療技術創新",
+    "description": "用於識別、發明和實施新的醫療應用、診斷和其他基於人工智慧的技術的綜合路線圖，旨在為所有醫療保健利益相關者創造價值。",
+    "image": "images/features/noun_branding_1885335.svg"
+  }
+]

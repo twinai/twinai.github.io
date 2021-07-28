@@ -1,0 +1,24 @@
+main:
+  - name: "服務"
+    url: "/services/"
+    weight: 1
+  - name: "團隊"
+    url: "/team/"
+    weight: 2
+  - name: "關於"
+    url: "/about/"
+    weight: 3
+  - name: "聯絡方式"
+    url: "/contact/"
+    weight: 4
+  - name: "English"
+    url: "https://twinai.tw/english/"
+    weight: 5
+
+footer:
+  - name: "首頁"
+    url: "/"
+    weight: 1
+  - name: "聯絡方式"
+    url: "/contact/"
+    weight: 2
