@@ -5,3 +5,5 @@ featured: true
 weight: 1
 layout: service
 ---
+
+我們幫助健康和生命科學組織從機會主義和戰術人工智能決策轉變為更具戰略意義的人工智能解決方案方向。
